@@ -78,25 +78,25 @@ this.rollNumber = rollNumber;
     }
 }
 let firstStudent = Object.create(studentProto)
-firstStudent.initialiser('jeevesh',7,23);
+firstStudent.initialiser('pallavi',12,50);
 console.log(firstStudent);
 
 let secondStudent = Object.create(studentProto)
-firstStudent.initialiser('jeevesh',7,23);
+firstStudent.initialiser('deeksha',11,20);
 console.log(firstStudent);
 
 let thirdStudent = Object.create(studentProto)
-firstStudent.initialiser('sachin',9,27);
+firstStudent.initialiser('prakriti',10,35);
 console.log(firstStudent);
 let fourthStudent = Object.create(studentProto)
-firstStudent.initialiser('sunil',5,13);
+firstStudent.initialiser('hina',9,32);
 console.log(firstStudent);
 
 let fifthStudent = Object.create(studentProto)
-firstStudent.initialiser('ajay',2,34);
+firstStudent.initialiser('sakshi',12,40);
 console.log(firstStudent);
 
 let sixthStudent = Object.create(studentProto)
-firstStudent.initialiser('Riya',1,17);
+firstStudent.initialiser('raksha',6,25);
 console.log(firstStudent);
 
